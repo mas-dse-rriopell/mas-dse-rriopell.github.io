@@ -36,16 +36,16 @@ titlecase: true
 
 
 # Site owner
-owner:
-  name:
-  email:
-  twitter:
-  google:
+owner: 
+  name: Ryan Riopelle
+  email: ryan.riopelle@gmail.com
+  twitter: https://twitter.com/ryanriopelle
+  google: Ryan Riopelle
     ad-client:
     ad-slot:
-  bio:
+  bio: "I am an engineer with who loves the ocean and big data."
   avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+  disqus-shortname: "Ryan"
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
