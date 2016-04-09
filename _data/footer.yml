@@ -1,4 +1,13 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Subscribe
+  url: /subscribe
+
+- title: Linkedin
+  url: https://www.linkedin.com/in/ryanriopelle
+
+- title: Twitter
+  url: https://twitter.com/ryanriopelle
+
+  - title: Github
+  url: https://github.com/mas-dse-rriopell
